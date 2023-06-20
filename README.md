@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **simeeeeee/simeeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=simeee_Github😊&fontSize=90" />
+### Hi there 👋
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeeeeee&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=simeeeeee&show_icons=true">
