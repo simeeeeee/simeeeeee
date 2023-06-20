@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=simeee_Github😊&fontSize=90" />
-### Hi there 👋
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeeeeee&layout=compact"><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simeeeeee&layout=compact)](https://github.com/simeeeeee/github-readme-stats)
