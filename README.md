@@ -48,7 +48,7 @@ Hi, I am trying to become a nice developer😎
  
   ##  :pencil2: 
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
- <img src="https://img.shields.io/badge/nodedotjs-#339933?style=flat&logo=Spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
  <br/>
  
 
