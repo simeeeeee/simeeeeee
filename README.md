@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=simeee_Github😊&fontSize=90" />
 ### Hi there 👋
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeeeeee&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=simeeeeee&show_icons=true">
