@@ -73,6 +73,5 @@ Hi, I am trying to become a nice developer😎
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 
-	<br>
 </div>
- <br/>
+
